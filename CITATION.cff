@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this project and the original datasets separately."
+title: "Nigeria's Climate Reality"
+type: software
+authors:
+  - family-names: "Uzoma"
+    given-names: "Blessing"
+version: 0.1.0
+date-released: 2026-10-20
+url: "https://storymaps.arcgis.com/stories/1354cc766aad4f75aa19a2493a844a02"
+abstract: "An exploratory geospatial visualisation of temperature trends, rainfall variability, modelled river-flood hazard, and estimated population distribution across Nigeria."
