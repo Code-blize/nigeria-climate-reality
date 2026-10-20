@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# GIS temporary files
+*.lock
+*.aux.xml
+*.ovr
+*.tmp
+*.bak
+*.aprx~
+
+# Large/raw data: retain locally unless redistribution is permitted
+data/raw/
+data/processed/
+*.tif
+*.tiff
+*.nc
+*.grib
+*.grb
+*.gdb/
